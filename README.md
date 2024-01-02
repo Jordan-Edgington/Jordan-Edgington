@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan. I am currently a Signals Intelligence Analyst but will soon be transitioning into the realm of software development, currently studying with CodePlatoon.
-- 🌱 I’m currently learning Python and JavaScript and will soon begin HTML and CSS as well.
+- 🌱 I’m currently learning Python and JavaScript and will soon begin HTML and CSS.
 - 📫 You can reach me at jordan.edgington.dev@gmail.com.
 
 <!---
