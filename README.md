@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 📡  I am currently a Signals Intelligence Analyst but will soon be transitioning into the realm of software development, currently studying with CodePlatoon.
+- 📡  I am currently a Signals Intelligence Analyst in the Air Force but will soon be transitioning into the realm of software development, currently studying with CodePlatoon.
 - 🌱  I’m currently learning **Python and JavaScript**
 - 📫  How to reach me **jordan.edgington.dev@gmail.com**
 
