@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 📡I am currently a Signals Intelligence Analyst but will soon be transitioning into the realm of software development, currently studying with CodePlatoon.
-- 🌱 I’m currently learning **Python and JavaScript**
-- 📫 How to reach me **jordan.edgington.dev@gmail.com**
+- 📡  I am currently a Signals Intelligence Analyst but will soon be transitioning into the realm of software development, currently studying with CodePlatoon.
+- 🌱  I’m currently learning **Python and JavaScript**
+- 📫  How to reach me **jordan.edgington.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
