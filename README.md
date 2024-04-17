@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 - 📡  I am currently a Signals Intelligence Analyst in the Air Force but will soon be transitioning into the realm of software development, currently studying with CodePlatoon.
-- 🌱  I’m currently learning **Python and JavaScript**
+- 🌱  Technologies: **Python, Javascript, React, Django, PostgreSQL, HTML, CSS**
 - 📫  You can reach me at **jordan.edgington.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
