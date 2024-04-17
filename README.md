@@ -6,9 +6,8 @@
 - 📫  You can reach me at **jordan.edgington.dev@gmail.com** or at my Linkedin: <a href="https://www.linkedin.com/in/jordanedgington/">jordanedgington</a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jordan-edgington-b78170294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordan-edgington-b78170294" height="30" width="40" /></a>
+<h3 align="left">My work:</h3>
+<p align="left"> As my final personal project in the Code Platoon course, I created a full-stack calorie counting application with multiple external APIs and CRUD resources. Check it out here: <a href="https://munch-memo.duckdns.org/"> Munch Memo </a>
 </p>
 
 <!---
