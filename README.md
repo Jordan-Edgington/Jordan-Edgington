@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Full-Stack Software Developer</h3>
 
-- 📡  I am currently a Signals Intelligence Analyst in the Air Force but will soon be transitioning into the realm of software development, currently studying with CodePlatoon.
-- 🌱  Technologies: **Python, Javascript, React, Django, PostgreSQL, HTML, CSS**
-- 📫  You can reach me at **jordan.edgington.dev@gmail.com** or at my Linkedin: <a href="https://www.linkedin.com/in/jordanedgington/">jordanedgington</a>
-
-
-<h3 align="left">My work:</h3>
-<p align="left"> As my final personal project in the Code Platoon course, I created a full-stack calorie counting application with multiple external APIs and CRUD resources. Check it out here: <a href="https://munch-memo.duckdns.org/"> Munch Memo </a>
-</p>
+- I am currently an Air Force veteran and Code Platoon alumni, now full-time typescript developer.
+- Current tech stack: **Typescript, Windmill, React**
+- Also familiar with: **Python, Javascript, React, Django, PostgreSQL, HTML, CSS**
+- You can reach me at **jordan.edgington.dev@gmail.com** or at my Linkedin: <a href="https://www.linkedin.com/in/jordanedgington/">jordanedgington</a>
 
 <!---
 Jordan-Edgington/Jordan-Edgington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
