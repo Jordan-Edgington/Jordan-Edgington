@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jordan!</h1>
+<h1 align="center">Hi, I'm Jordan!</h1>
 <h3 align="center">Full-Stack Software Engineer & Air Force Veteran</h3>
 
 - I'm a full-stack developer with one year of professional experience building production web applications using **TypeScript**, **React**, and **Node.js**.
